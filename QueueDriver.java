@@ -16,7 +16,7 @@ class Queue {
             return; 
         } 
    
-        // insert element at the rear 
+        // insert element at the rear position
         else { 
             queue[rear] = item; 
             rear++; 
